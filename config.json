@@ -1,0 +1,16 @@
+{
+	"communities_params": [
+		{"name": "СтопКоронавирусРФ", "community_id": -193013221, "tag_filter": false},
+		{"name": "Ленобласть", "community_id": -193439146, "tag_filter": false},
+		{"name": "КНовости", "community_id": -191194371, "tag_filter": false},
+
+		{"name": "ВОЗ", "community_id": -193849773, "tag_filter": true},
+		{"name": "Москва24", "community_id": -35068738, "tag_filter": true},
+		{"name": "Лентач", "community_id": -29534144, "tag_filter": true},
+		{"name": "TJ", "community_id": -28261334, "tag_filter": true},
+		{"name": "ТАСС", "community_id": -26284064, "tag_filter": true},
+		{"name": "ТВДождь", "community_id": -17568841, "tag_filter": true}
+	],
+
+	"filters": ["коронавирус", "covid", "пандем", "ковид", "coronavirus"]
+}
